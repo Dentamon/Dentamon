@@ -13,6 +13,7 @@
 • Javascript 100%
 # Friends
 • [zastix](https://github.com/ZasticBradyn)
+• [SnowFlakeΨ](https://github.com/Snowflake-Coder-H2o)
 # Other Stuff
 #### ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dentamon&show_icons=true&theme=gradient)
 
