@@ -15,4 +15,6 @@
 • [zastix](https://github.com/ZasticBradyn)
 # Other Stuff
 #### [![Dentamon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dentamon)](https://github.com/Dentamon/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dentamon&show_icons=true&theme=dark)
+
 #### [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dentamon)](https://github.com/Dentamon/github-readme-stats)
