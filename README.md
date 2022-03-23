@@ -12,9 +12,11 @@
 # Languages I use
 • Javascript 100%
 # Friends
-• [zastix](https://github.com/ZasticBradyn)
-• [SnowFlakeΨ](https://github.com/Snowflake-Coder-H2o)
+### • [zastix](https://github.com/ZasticBradyn)
+### • [SnowFlakeΨ](https://github.com/Snowflake-Coder-H2o)
 # Other Stuff
 #### ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dentamon&show_icons=true&theme=radical)
 
 #### [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dentamon)](https://github.com/Dentamon/github-readme-stats)
+
+#### [![Dentamon's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Dentamon)](https://github.com/Dentamon/github-readme-stats)
