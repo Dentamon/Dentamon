@@ -14,5 +14,5 @@
 # Friends
 • [zastix](https://github.com/ZasticBradyn)
 # Other Stuff
-[![Dentamon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dentamon)](https://github.com/Dentamon/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dentamon)](https://github.com/Dentamon/github-readme-stats)
+#### [![Dentamon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dentamon)](https://github.com/Dentamon/github-readme-stats)
+#### [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dentamon)](https://github.com/Dentamon/github-readme-stats)
