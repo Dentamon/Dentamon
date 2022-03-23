@@ -15,6 +15,6 @@
 • [zastix](https://github.com/ZasticBradyn)
 • [SnowFlakeΨ](https://github.com/Snowflake-Coder-H2o)
 # Other Stuff
-#### ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dentamon&show_icons=true&theme=gradient)
+#### ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dentamon&show_icons=true&theme=radical)
 
 #### [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dentamon)](https://github.com/Dentamon/github-readme-stats)
