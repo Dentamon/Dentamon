@@ -18,3 +18,5 @@
 #### ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dentamon&show_icons=true&theme=dark)
 
 #### ![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Dentamon&theme=dark)
+
+<a href="https://github.com/anuraghazra/github-readme-stats/issues">
