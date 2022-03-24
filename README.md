@@ -19,4 +19,5 @@
 
 #### ![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Dentamon&theme=dark)
 
-<a href="https://github.com/anuraghazra/github-readme-stats/issues">
+<a href="https://github.com/Dentamon/github-readme-stats/issues">
+      <img alt="Issues" src="https://img.shields.io/github/issues/Dentamon/github-readme-stats?color=0088ff" />
