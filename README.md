@@ -5,6 +5,7 @@
     <td><img src="https://profile-counter.glitch.me/Dentamon/count.svg" alt="" /></td>
   </tr>
 </table>
+
 #### Dentamon Here 😛
 #### I am sort of new to github, but not really lol :)
 #### So here is my profile thing!
