@@ -2,7 +2,7 @@
 <table>
   <tr>
     <td>You're visitor</td>
-    <td><img src="https://profile-counter.dark.me/Dentamon/count.svg" alt="" /></td>
+    <td><img src="https://profile-counter.glitch.me/Dentamon/count.svg" alt="" /></td>
   </tr>
 </table>
 
@@ -22,7 +22,7 @@
 # Languages I use
 • Javascript 100%
 # Friends
-### • [zastix](https://github.com/ZasticBradyn)
+### • [zastix](https://github.com/notzastix)
 ### • [SnowFlakeΨ](https://github.com/Snowflake-Coder-H2o)
 # Other Stuff
 #### ![Dentamon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dentamon&show_icons=true&theme=dark)
