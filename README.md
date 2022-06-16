@@ -6,15 +6,10 @@
   </tr>
 </table>
 
-#### Dentamon Here 😛
-#### I am sort of new to github, but not really lol :)
-#### So here is my profile thing!
+#### Welcome to my profile!
 # 👀What I'm working on
-#### Blooket Hacks (Back up)
-#### Blacket Hacks
+#### Shell Shockers Crackware
 #### README Addons
-# Big Project
-### Prodigy Hacks
 # My Discord
 • Dentamon #0235
 # ⛏ Friend me on Minecraft!
